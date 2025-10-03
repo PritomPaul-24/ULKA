@@ -121,3 +121,7 @@ merges **space science**, **environmental restoration**, and
 NASA's authentic solar data, and advanced video production tools, **Team
 ULKA** delivers a game experience aimed at educating and inspiring the
 next generation of climate-conscious explorers.
+
+
+<img width="1920" height="1080" alt="Solara Shakir 01" src="https://github.com/user-attachments/assets/bf29eb31-b7a0-4bc0-9848-248912a030ef" />
+
