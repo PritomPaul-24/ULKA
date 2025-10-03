@@ -8,9 +8,13 @@ solar restoration mechanics**. Players take the role of **Shah Sikandar
 Ahmad Shakir**, an environmentalist who revives dying ecosystems on
 Earth and alien planets using **pure sunlight energy**.
 
+<img width="1920" height="1080" alt="Solara Shakir 01" src="https://github.com/user-attachments/assets/e87aa1e4-3b9f-43a6-a3cd-7604d7d2182e" />
+
 The game blends **cinematic storytelling**, **real-world NASA solar
 science**, and **planetary ecology** into engaging, interactive gameplay
 designed to inspire climate action and global cooperation.
+
+<img width="1920" height="1080" alt="Solara Shakir 02" src="https://github.com/user-attachments/assets/1d266748-f706-45a0-87dc-d582caeeb778" />
 
 **Core Themes:**
 
@@ -20,6 +24,8 @@ designed to inspire climate action and global cooperation.
 
 -   Planetary Environmental Restoration
 
+<img width="1920" height="1080" alt="Solara Shakir 03" src="https://github.com/user-attachments/assets/3923806d-d7aa-4021-852c-2bf4774151a9" />
+
 **NASA Connection:**
 
 Real sunspot data from NASA's Solar Dynamics Observatory (SDO) is used
@@ -27,6 +33,9 @@ to drive in-game sunspot mapping and energy absorption mechanics,
 linking gameplay directly to authentic solar science. The game also
 partially uses and modifies real datasets from NASA's Aura, Aqua, MODIS,
 SDO, PACE satellites, and imagery from the Hubble Space Telescope.
+
+<img width="1920" height="1080" alt="NASA Connection " src="https://github.com/user-attachments/assets/d148bc98-3721-4d05-ae54-8ee4399b3b67" />
+
 
 **Sustainability Link:** Demonstrates scientifically inspired methods of
 ecosystem revival and sustainable planetary management.
@@ -37,6 +46,8 @@ ecosystem revival and sustainable planetary management.
 
 -   SDG 15 --- Life on Land
 
+  <img width="1920" height="653" alt="Sustainability" src="https://github.com/user-attachments/assets/0b379f91-8032-4715-9679-a1fe57cc9b06" />
+
 **Target Audience**
 
 -   **Age Range:** 10+ years
@@ -46,6 +57,9 @@ ecosystem revival and sustainable planetary management.
 
 -   **Global Appeal:** Designed for worldwide audiences passionate about
     climate action, sustainability, and space exploration.
+
+<img width="1920" height="1080" alt="Target Audience " src="https://github.com/user-attachments/assets/b1929de4-dbe0-4114-b05b-2a7ad7ee1a48" />
+
 
 **Gameplay Flow & Full Project Summary**
 
@@ -94,6 +108,9 @@ ecosystem revival and sustainable planetary management.
 -   Constructs the Solar Cannon and destroys Darknova with a massive
     solar blast.
 
+<img width="1920" height="1080" alt="Gameplay Flow   Full Project " src="https://github.com/user-attachments/assets/3a586458-4cf6-43a1-98ac-f7161bd1d492" />
+
+
 **Full Project Summary**
 
 > Team **ULKA** presents **Solara Shakir** --- A Game of Light and Hope,
@@ -123,5 +140,5 @@ ULKA** delivers a game experience aimed at educating and inspiring the
 next generation of climate-conscious explorers.
 
 
-<img width="1920" height="1080" alt="Solara Shakir 01" src="https://github.com/user-attachments/assets/bf29eb31-b7a0-4bc0-9848-248912a030ef" />
+
 
