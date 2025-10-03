@@ -139,6 +139,11 @@ NASA's authentic solar data, and advanced video production tools, **Team
 ULKA** delivers a game experience aimed at educating and inspiring the
 next generation of climate-conscious explorers.
 
+## 🎥 Project Demos
 
+- *30 Sec Video (30 Seconds of Glory – Team ULKA):* [Watch Here](https://drive.google.com/file/d/1cuVwqGAW04xnA2GdoNA1k0gmq20X1Qn7/view?usp=sharing)  
+- *240 Sec Video (25-SYL-ULKA):* [Watch Here](https://drive.google.com/file/d/1y1AsLcjSY35Ghz5oQ8F8ojyol8vrCN3w/view?usp=sharing)  
+
+📑 *Full Report (Team ULKA):* [Read Here](https://drive.google.com/file/d/1do3DNQbCMAmsWe-E9yNPuJGdkGIEESBZ/view?usp=sharing)
 
 
